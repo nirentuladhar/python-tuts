@@ -17,7 +17,8 @@ def main():
     for i in a: print(i)
 
 
-
+# tuples are created using comma operator
+# t = (1,)
 
 
 if __name__ == "__main__":main()
